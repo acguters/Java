@@ -1,0 +1,13 @@
+//README
+//Lists all files being submitted for ASG8
+//Special instructions: type “make test” to compile and run program
+//			 type “make clean” to clean out executable/class files
+//			 type “make all” to solely create executable
+
+FILES SUBMITTED:
+README
+Makefile
+Queue.java
+Tree.java
+xref.java
+auxlib.java

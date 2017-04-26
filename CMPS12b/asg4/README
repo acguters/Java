@@ -1,0 +1,18 @@
+// filename: README
+// description: list all the files submitted
+// and specific instructions
+
+README
+Makefile
+Calc.java
+CalcTest.java
+junit-4.12.jar
+hamcrest-core-1.3.jar
+
+To run the JUnit test, type in "make test"
+To clear class files, type in "make clean"
+
+Unit Test for compound expression is named "CompoundExpression"
+Unit Test for half way through compound expression is named "HalfwayCompoundExpression"
+Unit Test for exception class when the denominator equals to zero is named "DenominatorEqualZero"
+Unit Test for log2 computation is named "Log2Test"

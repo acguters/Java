@@ -1,0 +1,11 @@
+#git_history.txt
+#shows git history
+
+* b798787 changed code so only name is printed by splitting from the comma
+* ea91081 used code given from instructions
+* a31e95f added comment block to greet.java
+* c3c1a22 added while loop to greet so loop will go run forever until terminated
+* eb842c3 used greet code given on instructions
+* 20e3f6a Initial blank versions of java source files
+* 0ba6dc7 Add variables to makefile following lab1
+* c0ee8f7 Initial commit of a blank makefile

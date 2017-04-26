@@ -1,0 +1,13 @@
+filename: README
+description: list all the files submitted
+
+README
+auxlib.java
+dllist.java 
+dllistTest.java 
+edfile.java 
+Makefile 
+
+When entering invalid commend, the program will warn "No such commend" 
+and teminate.
+Press Ctrl+D to teminate the program.

@@ -1,0 +1,10 @@
+README
+
+files submitted:
+README : shows submitted files
+Makefile : compiles and runs executable files. deletes if needed
+queue.c : functions, implementation files of ADT
+queue.h : functions, interfaces of ADT
+main.c : access of ADT
+
+to run, type "make all" followed by "make test". enter whatever numbers and press enter to add to the queue. End by using ctrl+D.  Valgrind results sent to test.log. remove unwanted files by typing "make clean" and "make spotless". if you want to remove test.log, type "rm test.log". 

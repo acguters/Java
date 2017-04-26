@@ -1,0 +1,3 @@
+README : info on files
+Makefile : creates executable jar file BusinessSearch, removes generated files
+BusinessSearch.java : reads txt file, makes array based on contents, sorts array,waits for user input, finds user input using binary search, prints out number, if " " is inputted, shows how many queries and how many not found, terminates program
